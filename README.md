@@ -41,7 +41,10 @@ traditional SCRUM mechanisms with mild deviations.
 - A resource-based server for API interaction.
 
 - Future Work
+
   - Customizable parameters to tailor NPCs to specific campaigns.
+
+- Expanded Requirements found [here](https://github.com/UTK-ASE-DDAI/docs-and-planning/tree/main/requirements.md)
 
 ### Design & Implementation
 
