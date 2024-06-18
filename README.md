@@ -8,6 +8,10 @@ submission on Canvas.
 This is a not a "living document", but may be updated as a "summary analysis"
 of work performed elsewhere.
 
+## Initial Project Proposal
+
+- [Project Idea](https://github.com/UTK-ASE-DDAI/docs-and-planning/blob/main/project-idea.md)
+
 ## Meeting Minutes
 
 - [2024-06-17](https://github.com/UTK-ASE-DDAI/docs-and-planning/blob/main/minutes-2024-06-17.md)
