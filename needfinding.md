@@ -54,6 +54,32 @@ Interviewer: Thomas Seeley
    - Alex suggests it would be cool if the AI could learn from your campaign setting over time, becoming more attuned to your specific world and style.
    - They are interested in beta testing or providing feedback and can be reached at alexdndplayer@email.com for updates or further research.
 
+
+Interviewer: Jacob Harris
+
+1. Jamil Omer, played for about 2 years.
+-2 times a week
+-Only played as a player.
+
+2. I played as a monk and I sacrificed my life to fend off an entire army to save my beloved wife in game.
+
+3. Never played as one.
+
+4.We use D&D Beyond an App. It helped me as a player by keeping track of my abilities, my attacks, and my inventory.
+-It does a pretty solid job, it would be nice if i could create a custom character to resemble my imaginitation of my character.
+
+5.It would be cool to have ai chats with the npcs in game, so it can be easier on the DM instead of him having to track and come up with multiple converstations.
+-I think all of those would be really cool, rank in order from best to least would be: world building, quest creation, item description, and NPC generation.
+
+6. It would be nice to have settings or maybe even take in data from the dm so the ai knows the type of "vibe" or theme to match to satisfy the dm. Then the dm can rate the generations so the ai can learn to change and satisfy the dm.
+
+7. Some concerns would possible be the ai generations are too dull or obviously created by ai and show no signs of creativity. I think others would agree because dungeon and dragons feeds off of creativity and if you take that away then its a completely new game.
+
+8. I feel like it would be good to use as a touch up or for subtle things, not to create a whole campaign or anything around thta level. For example, you could create an item and then you could use ai to help think of UPGRADES for that certain item.
+- to handle a situiation where ai feels like it doesnt fit with the campaign of course it can kinda ruin the vibe but at the end the DM is in control so he could simly retract time and think of a bettter way to handle the situation.
+
+9. Maybe art generation for certain peoples items, yes i would be interested in testing. 615-710-5168 hit my line.
+
 ## 4. Data Collection Highlights
 
 *[Summarize what your team interprets as the most important and relevant data about user goals. If possible, summarize recurring themes and/or contrast different customer responses.]*
