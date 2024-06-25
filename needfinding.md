@@ -52,7 +52,6 @@ Interviewer: Thomas Seeley
 
 9. Final Thoughts:
    - Alex suggests it would be cool if the AI could learn from your campaign setting over time, becoming more attuned to your specific world and style.
-   - They are interested in beta testing or providing feedback and can be reached at alexdndplayer@email.com for updates or further research.
 
 ## 4. Data Collection Highlights
 
